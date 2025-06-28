@@ -1,12 +1,4 @@
 # Image Restoration using Generative Adversarial Networks (GAN)
-## Team
-Ponnekanti Bipan Chandra 
-Pasala Ekshith Sai Gunakar
-## Problem Statement
-
-Image degradation is common in real-world visual data due to noise, compression artifacts, occlusion, or partial corruption. This project focuses on building an image restoration system that can recover and reconstruct high-quality images from such degraded inputs using deep generative models.
-
-The goal is to design a model that takes a corrupted image and restores it to a clean, high-fidelity version using Generative Adversarial Networks (GANs).
 
 ## Project Overview
 
@@ -37,7 +29,7 @@ This project implements an image restoration system using GANs to restore corrup
 - ✅ **Evaluation Metrics**: PSNR, SSIM, LPIPS for comprehensive quality assessment
 - ✅ **Web Interface**: Streamlit-based application for easy image upload and restoration
 - ✅ **Inference Optimization**: Efficient model loading and processing pipeline
-- ✅ **Web Deployment**:The app is available at [imagerestoration](https://imagerestoration-bipanchandra.streamlit.app)
+- ✅ **Web Deployment**:The app is available at [imagerestoration](https://image-restoration-model.streamlit.app/)
 ## Tech Stack
 
 ### Machine Learning
